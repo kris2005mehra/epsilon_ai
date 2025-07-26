@@ -29,6 +29,12 @@ A stunning, modern AI chatbot web application with an impressive 3D animated bac
 - **API Key Management**: Easy API key setup and switching
 - **User Avatars**: Distinct user and bot identities
 
+## 📸 ScreenShots
+
+<img width="1470" height="1000" alt="Screenshot 2025-07-27 at 12 09 39 AM" src="https://github.com/user-attachments/assets/64f531f7-3595-498d-9166-7064a010d715" />
+<img width="1451" height="1000" alt="Screenshot 2025-07-27 at 12 13 22 AM" src="https://github.com/user-attachments/assets/a6980221-c9ad-49c6-b856-76103e1cf310" />
+<img width="1455" height="824" alt="Screenshot 2025-07-27 at 12 11 39 AM" src="https://github.com/user-attachments/assets/34fdc021-aa9a-425c-ada3-ae4db469a842" />
+
 ## 🚀 Quick Start
 
 ### Prerequisites
